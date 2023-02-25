@@ -1,11 +1,4 @@
-# R for Data Science
-Contents:
-
-
-
-
-
-
+I'll put
 
 
 
